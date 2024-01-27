@@ -1,1 +1,1 @@
-print("lfmlskdfns askldn mas d")
+print("komputer")
